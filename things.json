@@ -1,0 +1,4 @@
+{ "name" : "Non-Intrusive", "info" : "We don't intercept your data or intrude in the network to decrease the performance. Instead we used a passive monitoring approach that sits behind the scene.", "_id" : { "$oid" : "5652179c5fd71a1c54f8c78e" }, "__v" : 0 }
+{ "name" : "Adaptive", "info" : "Our advanced Artificial Intelligence adapts to your organization's behavior and self-learns to detect the slightest abnormality in activities.", "_id" : { "$oid" : "5652179c5fd71a1c54f8c78f" }, "__v" : 0 }
+{ "name" : "Personalized", "info" : "We understand the humans behind the system and approach your cyber security from a human-centric point of view.", "_id" : { "$oid" : "5652179c5fd71a1c54f8c790" }, "__v" : 0 }
+{ "name" : "Real-Time", "info" : "Identify suspicious activity right when it happens in real time through our advanced monitoring system.", "_id" : { "$oid" : "5652179c5fd71a1c54f8c791" }, "__v" : 0 }

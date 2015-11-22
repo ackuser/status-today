@@ -1,0 +1,61 @@
+.thing-form {
+  margin: 20px 0;
+}
+
+#banner {
+  border-bottom: none;
+  margin-top: -20px;
+}
+
+#banner h1 {
+  font-size: 60px;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+.hero-unit {
+  position: relative;
+  padding: 30px 15px;
+  color: #F5F5F5;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  background: #4393B9;
+}
+
+.navbar-text {
+  margin-left: 15px;
+}
+
+#logo {
+  width: 200px;
+}
+
+#logo2 {
+  width: 500px;
+}
+
+@font-face {
+   font-family: FirstFont;
+   src: url(../assets/fonts/MotionPicture.ttf);
+}
+
+@font-face {
+   font-family: SecondFont;
+   src: url(../assets/fonts/FromCartoonBlocks.ttf);
+}
+
+.cooltext1 {
+   font-family: FirstFont;
+   text-align: center;
+   //font-style: oblique;
+   font-size: 25px;
+   //font-weight: bold;
+}
+
+.cooltext2 {
+   font-family: SecondFont;
+   text-align: center;
+   font-style: oblique;
+   font-size: 20px;
+   //font-weight: bold;
+}
